@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q5q5gY4hZ/a4UdeiZBlrpZIgzVsaW2OfxC3RDEzUqvYFPHyuIiPKKdQd/HjeIh6ai3jabu1vP19baKo+4lZOuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fabiola\\Desktop\\CSharp\\Aulas\\Aula4\\Aula4\\Aula4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fabiola\\.nuget\\packages\\cscore\\1.2.1.2\\cscore.1.2.1.2.nupkg.sha512",
+    "C:\\Users\\Fabiola\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Fabiola\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Fabiola\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'CSCore 1.2.1.2' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "CSCore",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
